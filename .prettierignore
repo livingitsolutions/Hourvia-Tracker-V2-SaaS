@@ -1,0 +1,6 @@
+node_modules
+dist
+coverage
+.netlify
+docs/sprint-0
+package-lock.json
